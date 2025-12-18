@@ -1,0 +1,8 @@
+{
+  "name": "UTC Offset",
+  "description": "Displays UTC time including the offset from current system timezone",
+  "uuid": "avritt.rohwer+utcoffset@gmail.com",
+  "shell-version": [
+    "49"
+  ]
+}
